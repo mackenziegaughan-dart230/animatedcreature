@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <meta charset="utf-8" />
+    <style>
+  h1 {
+            color: #ea1b82;
+            background-color: #ff7ff0;
+            text-align: center;
+            font-size: 80px;
+            font-family:-apple-system, BlinkMacSystemFont;
+            height: 90px;
+            width: 500px;
+            opacity: 0.8;
+            border-bottom: 20px ridge #ea1be9;
+            border-top: 20px ridge #ea1be9;
+            margin: 5px;
+            padding: 20px;
+        }
+      p {
+        color:darkslategrey;
+        text-align: center;
+        font-size: large;
+        font-family: cursive;
+      }
+      body {
+        background-color: #e26fac;
+      }
+      </style>
+  </head>
+  <body>
+    <h1>Pink Robot</h1>
+         <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/p5.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.10.0/addons/p5.sound.min.js"></script>
+    <p>
+      Hello! This is Pink Robot. He is very nervous, so his eyes shake all the time. His hat flew away in the wind. One of his favorite hobbies is watching the sun rise and set. His favorite place to watch the sunrise and sunset is next to his favorite tree. His favorite color is pink, so he makes sure his clothes are all pink. He, however, does not own pink shoes so he wears green ones. Wherever Pink Robot goes, he makes sure that he has his bag in his hand.</p>
+    <main>
+    </main>
+    <script src="sketch.js"></script>
+  </body>
+</html>
